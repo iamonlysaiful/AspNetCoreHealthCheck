@@ -1,1 +1,1 @@
-# AspNetCoreHealthCheck
+# ASP.NET Core Health Check
