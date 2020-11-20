@@ -158,5 +158,13 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 }
 ```
 
+## Result Screenshots
+```https://localhost:44376/healthz```
+> Raw Result
+![Image of Raw Result](https://github.com/iamonlysaiful/AspNetCoreHealthCheck/blob/main/S3HealthChecks/Screenshots/raw_output.PNG?raw=true)
+
+```https://localhost:44376/healthchecks-ui```
+> Health Checks UI
+![Image of Health Checks UI](https://github.com/iamonlysaiful/AspNetCoreHealthCheck/blob/main/S3HealthChecks/Screenshots/healthChecks_ui.PNG?raw=true)
 
 
